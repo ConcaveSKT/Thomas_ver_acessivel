@@ -96,7 +96,7 @@ figcaption {
 
 /* TEXTO */
 .estilo_texto_corrido {
-    max-width: 50%;
+    max-width: 100%;
     color: #3c3d5b;
     font-family: FuturaHandwritten, sans-serif;
     font-size: 15px;
