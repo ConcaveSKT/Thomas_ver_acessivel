@@ -138,10 +138,10 @@ footer a:hover {
 }
 
 /* MEDIA QUERIES PARA RESPONSIVIDADE */
-@media (max-width: 1000px) {
+@media (max-width: 600px) {
     .nav-buttons button,
     .menu-button {
-        width: 100%;
+        width: 20%;
         padding: 12px;
         font-size: 14px;
     }
